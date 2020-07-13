@@ -31,6 +31,8 @@ cc.Class({
         physics: false
     },
 
+    // This is line represent that I am successfully change the project by using vscode
+
     // LIFE-CYCLE CALLBACKS:
 
     // onLoad () {},
