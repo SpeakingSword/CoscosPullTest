@@ -32,6 +32,7 @@ cc.Class({
     },
 
     // This is line represent that I am successfully change the project by using vscode
+    // This Line represent that I am successfully change this script in my home.
 
     // LIFE-CYCLE CALLBACKS:
 
